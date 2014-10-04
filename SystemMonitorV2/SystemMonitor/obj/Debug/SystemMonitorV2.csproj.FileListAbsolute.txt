@@ -1,0 +1,4 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\SystemMonitorV2\SystemMonitor\bin\Debug\SystemMonitor.dll
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\SystemMonitorV2\SystemMonitor\bin\Debug\SystemMonitor.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\SystemMonitorV2\SystemMonitor\obj\Debug\SystemMonitor.dll
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\SystemMonitorV2\SystemMonitor\obj\Debug\SystemMonitor.pdb

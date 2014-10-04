@@ -1,0 +1,16 @@
+c:\Users\ASUS\Documents\Visual Studio 2013\Projects\Lab 2\Lab 2\bin\Lab 2.dll.config
+c:\Users\ASUS\Documents\Visual Studio 2013\Projects\Lab 2\Lab 2\bin\Lab 2.dll
+c:\Users\ASUS\Documents\Visual Studio 2013\Projects\Lab 2\Lab 2\bin\Lab 2.pdb
+c:\Users\ASUS\Documents\Visual Studio 2013\Projects\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+c:\Users\ASUS\Documents\Visual Studio 2013\Projects\Lab 2\Lab 2\obj\Debug\Lab 2.dll
+c:\Users\ASUS\Documents\Visual Studio 2013\Projects\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+c:\Users\ASUS\Documents\Visual Studio 2013\Projects\Lab 2\Lab 2\bin\SystemMonitor.dll
+c:\Users\ASUS\Documents\Visual Studio 2013\Projects\Lab 2\Lab 2\bin\SystemMonitor.pdb
+E:\Lab 2\Lab 2\Lab 2\bin\Lab 2.dll.config
+E:\Lab 2\Lab 2\Lab 2\bin\Lab 2.dll
+E:\Lab 2\Lab 2\Lab 2\bin\Lab 2.pdb
+E:\Lab 2\Lab 2\Lab 2\bin\SystemMonitor.dll
+E:\Lab 2\Lab 2\Lab 2\bin\SystemMonitor.pdb
+E:\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+E:\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.dll
+E:\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
