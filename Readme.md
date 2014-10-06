@@ -1,5 +1,9 @@
 # Readme
 
+## 运行截图
+
+![ScreenShot](./ScreenShot.jpg)
+
 ## 运行环境
 - 装有.NET Framework 4.0或以上的电脑
 - 最好是64位Windows系统
