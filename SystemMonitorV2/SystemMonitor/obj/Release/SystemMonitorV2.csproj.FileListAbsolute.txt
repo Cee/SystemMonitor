@@ -2,3 +2,7 @@ C:\Users\ASUS\Documents\Visual Studio 2013\Projects\SystemMonitorV2\SystemMonito
 C:\Users\ASUS\Documents\Visual Studio 2013\Projects\SystemMonitorV2\SystemMonitor\bin\Release\SystemMonitor.pdb
 C:\Users\ASUS\Documents\Visual Studio 2013\Projects\SystemMonitorV2\SystemMonitor\obj\Release\SystemMonitor.dll
 C:\Users\ASUS\Documents\Visual Studio 2013\Projects\SystemMonitorV2\SystemMonitor\obj\Release\SystemMonitor.pdb
+D:\SystemMonitor-master\SystemMonitorV2\SystemMonitor\bin\Release\SystemMonitor.dll
+D:\SystemMonitor-master\SystemMonitorV2\SystemMonitor\bin\Release\SystemMonitor.pdb
+D:\SystemMonitor-master\SystemMonitorV2\SystemMonitor\obj\Release\SystemMonitor.dll
+D:\SystemMonitor-master\SystemMonitorV2\SystemMonitor\obj\Release\SystemMonitor.pdb

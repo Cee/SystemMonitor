@@ -132,7 +132,15 @@ namespace SystemMonitor
             {
                 int pid = p.Id;
                 string pName = p.ProcessName;
-                string pOwner = GetProcessOwner(p.Id);
+                string pOwner;
+                try
+                {
+                    pOwner = GetProcessOwner(p.Id);
+                }
+                catch
+                {
+                    pOwner = "SYSTEM";
+                }
                 string pDescription;
                 try
                 {
@@ -143,7 +151,15 @@ namespace SystemMonitor
                     pDescription = "";
                 }
                 float pMem = p.WorkingSet64 / 1024;
-                int pCpu = GetCpuUsage(pid);
+                int pCpu;
+                try
+                {
+                    pCpu = GetCpuUsage(pid);
+                }
+                catch
+                {
+                    pCpu = 0;
+                }
                 //Console.WriteLine("{0}  {1}  {2}  {3}  {4}  {5}", pid, pName, pOwner, pDescription, pMem, pCpu);
                 ret.Add(new MyProcess(pid, pName, pOwner, pDescription, pMem, pCpu));
             }

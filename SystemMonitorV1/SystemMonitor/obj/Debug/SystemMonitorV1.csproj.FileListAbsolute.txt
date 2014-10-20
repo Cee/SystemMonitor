@@ -2,3 +2,8 @@ C:\Users\ASUS\Documents\visual studio 2013\Projects\SystemMonitorV1\SystemMonito
 C:\Users\ASUS\Documents\visual studio 2013\Projects\SystemMonitorV1\SystemMonitor\bin\Debug\SystemMonitor.pdb
 C:\Users\ASUS\Documents\visual studio 2013\Projects\SystemMonitorV1\SystemMonitor\obj\Debug\SystemMonitor.dll
 C:\Users\ASUS\Documents\visual studio 2013\Projects\SystemMonitorV1\SystemMonitor\obj\Debug\SystemMonitor.pdb
+D:\SystemMonitor-master\SystemMonitorV1\SystemMonitor\bin\Debug\SystemMonitor.dll
+D:\SystemMonitor-master\SystemMonitorV1\SystemMonitor\bin\Debug\SystemMonitor.pdb
+D:\SystemMonitor-master\SystemMonitorV1\SystemMonitor\obj\Debug\SystemMonitorV1.csprojResolveAssemblyReference.cache
+D:\SystemMonitor-master\SystemMonitorV1\SystemMonitor\obj\Debug\SystemMonitor.dll
+D:\SystemMonitor-master\SystemMonitorV1\SystemMonitor\obj\Debug\SystemMonitor.pdb

@@ -14,3 +14,11 @@ E:\Lab 2\Lab 2\Lab 2\bin\SystemMonitor.pdb
 E:\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
 E:\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.dll
 E:\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+D:\SystemMonitor-master\Lab 2\Lab 2\bin\Lab 2.dll.config
+D:\SystemMonitor-master\Lab 2\Lab 2\bin\Lab 2.dll
+D:\SystemMonitor-master\Lab 2\Lab 2\bin\Lab 2.pdb
+D:\SystemMonitor-master\Lab 2\Lab 2\bin\SystemMonitor.dll
+D:\SystemMonitor-master\Lab 2\Lab 2\bin\SystemMonitor.pdb
+D:\SystemMonitor-master\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+D:\SystemMonitor-master\Lab 2\Lab 2\obj\Debug\Lab 2.dll
+D:\SystemMonitor-master\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
